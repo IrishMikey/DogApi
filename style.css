@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-size: larger;
+}
+header{
+    display: flex;
+    text-align: center;
+    min-height: 50px;
+    background-color: aquamarine;
+    justify-content: center;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
